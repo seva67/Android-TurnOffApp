@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Таймер выключения</string>
+    <string name="hour_5">5 часов</string>
+    <string name="hour_3">3 часа</string>
+    <string name="hour_2">2 часа</string>
+    <string name="hour_1">1 час</string>
+    <string name="minutes_45">45 минут</string>
+    <string name="minutes_30">30 минут</string>
+    <string name="minutes_20">20 минут</string>
+    <string name="minutes_10">10 минут</string>
+    <string name="countDown">До выключения осталось</string>
+    <string name="suffix_str">минут.</string>
+    <string name="clock_start">Включить таймер</string>
+    <string name="clock_stop">Выключить таймер</string>
+    <string name="timer_switch">Включение таймера</string>
+</resources>
